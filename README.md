@@ -1,4 +1,4 @@
-# Tech-Challenged
+# Chem-Edu-Game
 
 ### Table of Contents
 * Coming soon.
